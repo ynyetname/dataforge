@@ -1,1 +1,1 @@
-# reddit_mcp_server
+# curbappealnet
