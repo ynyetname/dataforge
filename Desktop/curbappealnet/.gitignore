@@ -28,5 +28,76 @@ dataset_curbappealnet/
 Thumbs.db
 
 # User directories and system files
-../../*
-../*
+# Ignore specific user directories that show up in git status
+../../.anaconda/
+../../.aws/
+../../.bash_history
+../../.cache/
+../../.conda/
+../../.condarc
+../../.continuum/
+../../.gitconfig
+../../.ipynb_checkpoints/
+../../.ipython/
+../../.jupyter/
+../../.keras/
+../../.lesshst
+../../.local/
+../../.matplotlib/
+../../.spyder-py3/
+../../.streamlit/
+../../.viminfo
+../../.vscode/
+../../100-Days-of-MachineLearning/
+../../212551603/
+../../AppData/
+../../BoT-SORT/
+../../Contacts/
+../../Downloads/
+../../Favorites/
+../../Jedi/
+../../Links/
+../../Music/
+../../NTUSER.DAT*
+../../Numpy/
+../../OOPS/
+../../OneDrive/
+../../Pictures/
+../../Python/
+../../Saved Games/
+../../Searches/
+../../Untitled.ipynb
+../../Videos/
+../../anaconda3/
+../../battery-report.html
+../../bus.jpg
+../../cat.15.jpg
+../../manim-mcp-server/
+../../ntuser.dat*
+../../runs/
+../../weather/
+../../yolov8n.pt
+
+# Ignore parent directory items
+../BYOP/
+../Claude.lnk
+../Codespaces.lnk
+../FastAPI/
+../Html/
+../Java Script/
+../MinGW Installer.lnk
+../Personal - Edge.lnk
+../Presentation_BYOP.mp4
+../Visual Studio Code.lnk
+../chatbot-in-langgraph/
+../coding/
+../desktop.ini
+../expense-tracker-mcp-server/
+../lanchain_prompts/
+../langchain-models/
+../langchain_prompts/
+../langraph-tut/
+../langsmith-masterclass/
+../manim-mcp-server/
+../reddit-mcp-server/
+../weather-mcp-server/
